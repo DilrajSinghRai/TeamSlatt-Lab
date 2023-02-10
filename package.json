@@ -17,6 +17,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "cypress": "cypress open",
     "lint": "eslint src",
     "eject": "react-scripts eject"
   },
@@ -56,6 +57,7 @@
     ]
   },
   "devDependencies": {
+    "cypress": "10.9.0",
     "eslint": "^8.34.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-standard": "^17.0.0",
